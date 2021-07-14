@@ -1,0 +1,5 @@
+exports.TOKEN = "ODY0ODg1MTUwMTM4NzYxMjc2.YO79EA.trwuKe0qfSab9WRRD9JrGPbt2U4";
+
+exports.PREFIX = '+';
+
+exports.OWNER_ID = "685169591907123270"
